@@ -2,6 +2,6 @@
 
 ***THIS IS IN JPEG FORMAT, HENCE THE GITHUB LINKS CAN'T BE ACCESSED.***
 
-***VIEW THE PDF FORMAT***
+***DOWNLOAD THE PDF FORMAT***
 
-![](C:\Users\anusha\Desktop\RESUME\resume_jpeg.jpg)
+![resume](https://github.com/Anusha-raju/RESUME/blob/main/resume_jpeg.jpg)
