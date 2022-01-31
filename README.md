@@ -2,6 +2,11 @@
 
 ***THIS IS IN JPEG FORMAT, HENCE THE GITHUB LINKS CAN'T BE ACCESSED.***
 
-***VIEW THE PDF FORMAT***
+***DOWNLOAD THE PDF FORMAT***
 
-![](C:\Users\anusha\Desktop\RESUME\resume_jpeg.jpg)
+
+
+![](C:\Users\anusha\Desktop\RESUME\resume_image.jpg)
+
+
+
