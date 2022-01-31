@@ -6,6 +6,5 @@
 
 
 
-![](C:\Users\anusha\Desktop\RESUME\resume_image.jpg)
-
+![](https://github.com/Anusha-raju/RESUME/blob/main/resume_image.jpg)
 
