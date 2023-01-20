@@ -2,7 +2,7 @@
 
 ﻿<h1>ANUSHA U                                                          </h1>                                    
 
-"**Data Science** passionate with **statistical** background and hands-on experience with **Machine Learning**. Aspire to present the mathematics of Data Science as Art. Self-motivated and strive to learn"
+"Machine Learning Engineer with 0.5+ years' experience in Research and Development in ML and transforming NLP concepts to production."
 
 
 
@@ -39,14 +39,27 @@
 ------
 
 ## TECHNICAL SKILLS
+Statistical Analysis 
 
-- Languages: **Python, SQL, C**
+Machine Learning 
 
-- Databases: **MySQL**, MongoDB
+NLP 
 
-- Operating system: MS-windows
+Languages: Python, C, SQL 
 
-- Other Tools: GIT, MS-EXCEL
+Databases: MySQL,  
+
+Elastic Search 
+
+Git 
+
+SQL Alchemy 
+
+Scikit-learn 
+
+Pandas 
+
+NLTK 
 
   
 
