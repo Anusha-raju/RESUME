@@ -1,4 +1,4 @@
-﻿## [PDF Format](https://github.com/Anusha-raju/RESUME/blob/main/resume.pdf)
+﻿## [PDF Format](https://github.com/Anusha-raju/RESUME/blob/main/RESUME.pdf)
 
 ﻿<h1>ANUSHA U                                                          </h1>                                    
 
