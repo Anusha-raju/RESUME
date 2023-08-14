@@ -1,74 +1,48 @@
-﻿## [PDF Format](https://github.com/Anusha-raju/RESUME/blob/main/RESUME.pdf)
+﻿<h1>Anusha U</h1>
 
-﻿<h1>ANUSHA U                                                          </h1>                                    
+*Machine Learning Engineer*
 
-"Machine Learning Engineer with 0.5+ years' experience in Research and Development in ML and transforming NLP concepts to production."
+Bangalore, India
 
+mail: anusha.u.raju@gmail.com
 
+[git](https://github.com/Anusha-raju), [linkedin](https://www.linkedin.com/in/anusha-u-305054217/)
 
-**EDUCATION**
+Machine Learning Engineer with experience in Research and Development in ML and transforming NLP concepts to production.
 
-**Bachelors Of Engineering** 
+**Professional Experience**
 
-*Computer Scienc*e | CGPA- 7.55 |2016-2020
+05/2022 – present **Machine Learning Engineer,** *Ideapoke* Bangalore, India
 
+- Worked on ***Innovation Signalz Product***.
+- Web scrapping, Data population, Data processing, Entity extraction and Building NLP models around data for identifying important information from the data.
 
+- Collaborated with the team to automate the flow of data generation and validation
+- Integrated ***Semantic search*** to data retrieval
+- Built search screens using Django Framework
+- Used Langchain and llms integration for carrying out question answering over the docs and summarization.
 
-## DATA SCIENCE PROJECTS
+**Education**
 
-------
+2016 – 2020 **Bachelors of Engineering,** *V.T.U, Govt SKSJTI* Bangalore, India
 
-- [Ratings Categorizer](https://github.com/Anusha-raju/Ratings_classifier) **–** Upon performing **EDA (Exploratory Data Analysis)** obtain insights on significant parameters & build a classifier that’s capable of categorizing the App’s ratings.
-  - Techniques**: *Logistic Regression, Decision Tree, Random forest***
-  - Languages: **Python**
-  - Summary: Random Forest gave much better accuracy scores than Logistic Regression
+**SKILLS**
 
-- [Reviews Classifier](https://github.com/Anusha-raju/Reviews_classifier) **–** To classify the reviews into positive and negative based on the overall text tone of the review.
-  - Techniques**: *Naïve-Bayes , NLP***
-  - Languages: **Python**
-  - Summary: “**Bag of Words”** method was used to obtain tokens and Naïve-Bayes classifier performed well
-- [Rent Prediction](https://github.com/Anusha-raju/House-Rent-Data-Analysis) **–** To predict the rent of homes based on various parameters.
-  - Techniques**: *KNN, Decision Tree, Random forest***
-  - Languages: **Python**
-  - Summary: Upon successive EDA and Data cleaning, the model was trained. Models prediction on test data was significantly better on ‘Hyperparameter *optimization of RandomForest’*
+Machine Learning, NLP, Python, MySQL, Elastic Search, Scikit-learn, Git, Django, Sqlalchemy ORM, NLTK, PostgreSQL, Web Scrapping, Selenium
 
 
 
+**Projects**
 
+**Ratings Categorizer**
 
-------
+Upon performing EDA (Exploratory Data Analysis) obtain insights on significant parameters & build a classifier that’s capable of categorizing the App’s ratings.
 
-## TECHNICAL SKILLS
-Statistical Analysis 
+*Techniques*: Logistic Regression, Decision Tree, Random forest
 
-Machine Learning 
+*Summary*: Random Forest gave much better accuracy scores than Logistic Regression.
 
-NLP 
+**Forms**
 
-Languages: Python, C, SQL 
+This app has various features and options to create and share quiz forms of types (like ratings, questionnaire, feedback etc.,) This app is hosted on ***HEROKU*** and is built with ***FLASK***. The options to create the forms are of wide range with type validation for answers. The participants scores in the quiz are evaluated and can be viewed by the creator. 
 
-Databases: MySQL,  
-
-Elastic Search 
-
-Git 
-
-SQL Alchemy 
-
-Scikit-learn 
-
-Pandas 
-
-NLTK 
-
-  
-
-------
-
-### Contact 
-
-﻿Mail me: <anusha.u.raju@gmail.com>
-
-Contact: 7760982066
-
-GITHUB: [**Anusha-raju**](https://github.com/Anusha-raju)
