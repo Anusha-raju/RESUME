@@ -1,4 +1,4 @@
-﻿<h1>Anusha U</h1>
+﻿<h1>Anusha U</h1> ![QRcode](https://github.com/Anusha-raju/RESUME/blob/main/resume.jpeg)
 
 *Machine Learning Engineer*
 
