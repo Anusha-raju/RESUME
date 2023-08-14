@@ -1,6 +1,6 @@
 ﻿<h1>Anusha U</h1> 
 
-<img src="https://github.com/Anusha-raju/RESUME/blob/main/resume.jpeg" alt="QR code of RESUME" style="height: 100px; width:100px;"/>
+<img src="https://github.com/Anusha-raju/RESUME/blob/main/resume_qr.png" alt="QR code of RESUME" style="height: 100px; width:100px;"/>
 
 *Machine Learning Engineer*
 
