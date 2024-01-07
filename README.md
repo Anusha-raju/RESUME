@@ -14,7 +14,7 @@ Machine Learning Engineer with experience in Research and Development in ML and 
 
 **Professional Experience**
 
-05/2022 – present **Machine Learning Engineer,** *Ideapoke* Bangalore, India
+05/2022 – 11/2023 **Machine Learning Engineer,** *Ideapoke* Bangalore, India
 
 - Worked on ***Innovation Signalz Product***.
 - Web scrapping, Data population, Data processing, Entity extraction and Building NLP models around data for identifying important information from the data.
@@ -22,15 +22,15 @@ Machine Learning Engineer with experience in Research and Development in ML and 
 - Collaborated with the team to automate the flow of data generation and validation
 - Integrated ***Semantic search*** to data retrieval
 - Built search screens using Django Framework
-- Used Langchain and llms integration for carrying out question answering over the docs and summarization.
+- Used Langchain and llms for carrying out question answering over the docs and summarization.
 
 **Education**
 
-2016 – 2020 **Bachelors of Engineering,** *V.T.U, Govt SKSJTI* Bangalore, India
+2016 – 2020 **Bachelors of Engineering,** *Visvesvaraya Technological University, Govt SKSJTI* Bangalore, India
 
 **SKILLS**
 
-Machine Learning, NLP, Python, MySQL, Elastic Search, Scikit-learn, Git, Django, Sqlalchemy ORM, NLTK, PostgreSQL, Web Scrapping, Selenium
+Machine Learning, NLP, Python, MySQL, Elastic Search, Scikit-learn, Git, Django, Sqlalchemy, NLTK, PostgreSQL, Web Scrapping, Selenium
 
 
 
